@@ -1,0 +1,15 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+    width: 800px;
+    height: 600px;
+    box-sizing: border-box;
+    overflow: hidden;
+    background-image: url("/imgs/bg.png");
+    background-repeat: no-repeat;
+    background-size: 800px 600px;
+    border: 0;
+    user-select: none;
+    outline: none;
+}
